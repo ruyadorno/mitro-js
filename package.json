@@ -1,0 +1,31 @@
+{
+  "name": "mitro",
+  "version": "0.0.0",
+  "description": "API to access mitro server side from node applications.",
+  "main": "mitro.js",
+  "dependencies": {
+    "keyczarjs": "^0.1.0",
+    "node-forge": "^0.6.12",
+    "optimist": "^0.6.1",
+    "webworker-threads": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./runtests.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruyadorno/mitro-js.git"
+  },
+  "keywords": [
+    "mitro",
+    "password",
+    "manager",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/ruyadorno/mitro-js/issues"
+  },
+  "homepage": "https://github.com/ruyadorno/mitro-js"
+}
+
