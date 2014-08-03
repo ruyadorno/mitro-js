@@ -4,7 +4,7 @@
   "description": "API to access mitro server side from node applications.",
   "main": "mitro.js",
   "dependencies": {
-    "keyczarjs": "^0.1.0",
+    "keyczarjs": "git+https://github.com/mitro-co/keyczarjs.git",
     "node-forge": "^0.6.12",
     "optimist": "^0.6.1",
     "webworker-threads": "^0.5.1"
